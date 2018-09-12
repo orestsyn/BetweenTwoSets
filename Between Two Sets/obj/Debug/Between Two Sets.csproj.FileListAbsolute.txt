@@ -1,0 +1,7 @@
+D:\VisualProjects\Between Two Sets\Between Two Sets\bin\Debug\Between Two Sets.exe.config
+D:\VisualProjects\Between Two Sets\Between Two Sets\bin\Debug\Between Two Sets.exe
+D:\VisualProjects\Between Two Sets\Between Two Sets\bin\Debug\Between Two Sets.pdb
+D:\VisualProjects\Between Two Sets\Between Two Sets\obj\Debug\Between Two Sets.csprojAssemblyReference.cache
+D:\VisualProjects\Between Two Sets\Between Two Sets\obj\Debug\Between Two Sets.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Between Two Sets\Between Two Sets\obj\Debug\Between Two Sets.exe
+D:\VisualProjects\Between Two Sets\Between Two Sets\obj\Debug\Between Two Sets.pdb
